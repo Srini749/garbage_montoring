@@ -1,16 +1,12 @@
-# garbage_monitoring
+# Garbage Monitoring Application Using Flutter
 
-A new Flutter application.
+# Goal
+To increase time efficiency and save fuel through the creation of optimized routes for garbage disposal.
 
-## Getting Started
+#What it Does?
+It creates an optimized route, on the basis of data stored on firestore database, between smart dustbins, distrubuted over a region, in such a way that that the route consists of only dustbins to be disposed. 
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+#Firebase
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
